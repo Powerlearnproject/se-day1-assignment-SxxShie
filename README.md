@@ -14,7 +14,7 @@ Cloud computing
 Spiral Model
 
 List and briefly explain the phases of the Software Development Life Cycle.
-1.Project Planning - This stage about what we want.
+1.Project Planning - This stage about what we want.kk
 2.Requirements & Analysis - The second step of SDLC is gathering maximum information from the client requirements for the product.
 3.Design - In the design phase (3rd step of SDLC), the program developer scrutinizes whether the prepared software suffices all the requirements of the end-user.
 4.Coding or Implementation - translating the design to a computer-legible language. In this fourth stage of SDLC, the tasks are divided into modules or units and assigned to various developers.
